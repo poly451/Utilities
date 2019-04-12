@@ -1,5 +1,5 @@
-# This program walks the directory structure underneath the current working directory.
-# It includes the current working directory
+# This program lives in:
+# /Users/BigBlue/Documents/Programming/Python/utilities
 import os, sys
 from datetime import datetime
 sys.path.append('/Users/BigBlue/Documents/Programming/Python/utilities')
