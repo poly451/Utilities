@@ -4,6 +4,9 @@ import os, sys
 from datetime import datetime
 sys.path.append('/Users/BigBlue/Documents/Programming/Python/utilities')
 
+def myadd(a, b):
+    return a+b
+
 def findDirectory_helper(startingDirectory, targetdir):
     numberOfDirectories = 0
     #startingDirectory = os.environ.get('HOME')
